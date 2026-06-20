@@ -1,17 +1,10 @@
-# med_reminder
+# MedReminder
 
-A new Flutter project.
+MedReminder+ is a Flutter-based mobile application designed to help users manage medication schedules, receive reminders, track medicine intake history, and monitor stock levels.  
+This project is being built as an offline-first medication reminder app with local notifications and local storage, with a future plan to support cloud sync and caregiver monitoring.
 
-## Getting Started
+## Project Goals
+The main goal of MedReminder+ is to provide a simple but reliable medication reminder experience for patients or everyday users who need help remembering their medicines.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Current Scope (Phase 1 - Offline MVP)
+MedReminder+ is currently being developed as an **offline-first mobile app** without backend integration.
